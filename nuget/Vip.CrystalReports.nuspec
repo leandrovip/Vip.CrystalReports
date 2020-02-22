@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Vip.CrystalReports</id>
+    <version>1.0.1</version>
+    <authors>Vip Soluções</authors>
+    <owners>VIP Soluções</owners>
+    <description>Pacote de dlls utilizadas para compilar o CrystalReports</description>
+    <releaseNotes>release inicial</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>vip</tags>
+  </metadata>
+   <files>
+        <file src="files\AxShockwaveFlashObjects.dll" target="lib\net462\AxShockwaveFlashObjects.dll"/>
+		<file src="files\CrystalDecisions.CrystalReports.Engine.dll" target="lib\net462\CrystalDecisions.CrystalReports.Engine.dll"/>
+		<file src="files\CrystalDecisions.ReportSource.dll" target="lib\net462\CrystalDecisions.ReportSource.dll"/>
+		<file src="files\CrystalDecisions.Shared.dll" target="lib\net462\CrystalDecisions.Shared.dll"/>
+		<file src="files\CrystalDecisions.Windows.Forms.dll" target="lib\net462\CrystalDecisions.Windows.Forms.dll"/>
+   </files>
+</package>
