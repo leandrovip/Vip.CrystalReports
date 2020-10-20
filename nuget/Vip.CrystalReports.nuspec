@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Vip.CrystalReports</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <authors>Vip Soluções</authors>
     <owners>VIP Soluções</owners>
     <description>Pacote de dlls utilizadas para compilar o CrystalReports</description>
